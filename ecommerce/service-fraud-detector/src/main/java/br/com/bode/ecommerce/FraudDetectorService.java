@@ -1,6 +1,5 @@
 package br.com.bode.ecommerce;
 
-import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 
 import java.util.Map;
